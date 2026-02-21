@@ -5,6 +5,7 @@ Jogo clássico Pedra, Papel e Tesoura jogado no terminal com arte ASCII.
 ## Como jogar
 
 Digite:
+
 0 = Pedra  
 1 = Papel  
 2 = Tesoura  
