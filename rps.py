@@ -36,10 +36,12 @@ if choice < 0 or choice > 2:
 
 
 else:
+    print("Sua escolha: ")
     print(game[choice])
 
     # Random choice
     bot = random.randint(0, 2)
+    print("Escolha do computador: ")
     print(game[bot])
 
     # Conditions
