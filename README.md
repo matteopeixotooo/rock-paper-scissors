@@ -18,6 +18,6 @@ O computador escolhe aleatoriamente e o resultado é exibido.
 ## Executar
 
 ```bash
-git clone https://github.com/seu-usuario/pedra-papel-tesoura.git
-cd pedra-papel-tesoura
-python main.py
+git clone https://github.com/matteopeixotooo/rock-paper-scissors.git
+cd rock-paper-scissors
+python game.py
