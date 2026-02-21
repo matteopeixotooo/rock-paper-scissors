@@ -16,9 +16,11 @@ O computador escolhe aleatoriamente e o resultado é exibido.
 - Python 3.x
 
 ## Estrutura do Projeto
+```bash
 rock-paper-scissors/
 ├── game.py
 └── README.md
+```
 
 ## Executar
 
@@ -26,3 +28,4 @@ rock-paper-scissors/
 git clone https://github.com/matteopeixotooo/rock-paper-scissors.git
 cd rock-paper-scissors
 python game.py
+```
