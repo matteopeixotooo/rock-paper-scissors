@@ -21,3 +21,7 @@ O computador escolhe aleatoriamente e o resultado é exibido.
 git clone https://github.com/matteopeixotooo/rock-paper-scissors.git
 cd rock-paper-scissors
 python game.py
+
+rock-paper-scissors/
+├── game.py
+└── README.md
